@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Sarthak Keshari
 
+
+![My stats](https://github-readme-stats.vercel.app/api?username=SarthakKeshari)
 <!--
 **SarthakKeshari/SarthakKeshari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
