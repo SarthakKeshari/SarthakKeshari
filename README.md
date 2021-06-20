@@ -2,7 +2,7 @@
 
 ![SarthakKeshari's views](https://komarev.com/ghpvc/?username=d)
 ![My stats](https://github-readme-stats.vercel.app/api?username=SarthakKeshari)
-
+<br>
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakKeshari&layout=compact)"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakKeshari"/></td></tr></table>
 <!--
 **SarthakKeshari/SarthakKeshari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
