@@ -1,6 +1,4 @@
 ### Hi there 👋 I am Sarthak Keshari 
-#### Let's connect: 
-<a href="https://www.linkedin.com/in/sarthak-keshari-89664b193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedika-agrawal-7123041b2" height="30" width="40" /></a></p>
 <br>
 ![SarthakKeshari's views](https://komarev.com/ghpvc/?username=SarthakKeshari)
 <br>
